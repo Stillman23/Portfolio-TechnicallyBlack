@@ -75,6 +75,10 @@ Author:             Jitu Chauhan
  * 2.0 - General Elements
  */
 
+ .resumeButton{
+    text-align: center;
+ }
+
  #blog .blog-post img {
     margin-bottom: 20px;
     max-width: 100%;
