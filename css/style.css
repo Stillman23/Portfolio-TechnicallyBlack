@@ -2180,7 +2180,7 @@ figure {
 }
 
 .home {
-    background-image: url(../images/img_1378.jpg);
+    background-image: url-image('img_1378.jpg');
     background-position: top center;
     background-attachment: fixed;
     background-repeat: no-repeat;
